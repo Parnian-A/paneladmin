@@ -1,0 +1,20 @@
+
+
+
+@font-face {
+    font-family: iranSans;
+    src: url(../fonts/Iranian\ Sans.ttf);
+   
+}
+
+body {
+    font-family: iranSans;
+    
+    
+}
+
+
+.content {
+    margin : 30px;
+    padding: 20px;
+}
